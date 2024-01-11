@@ -1,1 +1,2 @@
-# Create a template and do your thing!
+# Use this template and do your thing!
+
